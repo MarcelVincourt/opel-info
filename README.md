@@ -19,3 +19,16 @@
 | 13100118          | X             |              | X     |              | X             |
 | 13100119          | X             | X            | X     | X            | X             |
 | 13100120          | X             | X            | X     |              | X             |
+
+## Heater control palen types (CCP is Climate Control Panel) (HCP is Heat Control Panel)
+Missing: Gray and dark gray HCP with airco button. Black HCP without airco button
+| GM serial number  | info |
+|-------------------|------|
+| 13122962          | Gray CCP with auto button
+| 13122963          | Dark Gray CCP with auto button
+| 13122964          | Gray HCP withouth airco button
+| 13122965          | Dark Gray HCP without airco button
+| 13250614          | Black HCP With airco button
+| 13250615          | Black CCP with auto button
+| 13250616          | Black CCP with airco button
+|
