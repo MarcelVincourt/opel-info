@@ -31,4 +31,9 @@ Missing: Gray and dark gray HCP with airco button. Black HCP without airco butto
 | 13250614          | Black HCP With airco button
 | 13250615          | Black CCP with auto button
 | 13250616          | Black CCP with airco button
+
+## Center console
+| GM Serial part | Color       | slots |
+|----------------|-------------|-------|
+| 13250667       | Piano black | 2     |
 |
